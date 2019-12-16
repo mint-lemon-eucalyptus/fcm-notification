@@ -1,6 +1,6 @@
 {
   "name": "fcm-notification",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Push notificaton for ios and android with nodejs",
   "main": "index.js",
   "repository": {
